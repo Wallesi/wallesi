@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waldemar Galizzi</h1>
 <h3 align="center">A full stack web developer from Argentina</h3>
 
-- 🌱 I’m currently learning **Angular, Springboot, React & Php**
+- 🌱 I’m currently working in Crombie.dev
 
 - 📫 How to reach me **waldemargalizzi98@gmail.com**
 
